@@ -1,0 +1,12 @@
+START HERE
+
+1. Open this folder in VS Code.
+2. Open Terminal -> New Terminal.
+3. Run: npm install
+4. Run: cd client && npm install && cd ../server && npm install && cd ..
+5. Copy server/.env.example to server/.env.
+6. Put your Gemini API key in server/.env.
+7. Run: npm start
+8. Open http://localhost:5173
+
+Read README.md for the full submission checklist.
