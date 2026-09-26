@@ -229,5 +229,7 @@ Each generation request receives an increasing request ID. A slower older reques
 Approximately spent 6hrs
 
 ## Implementation 
+<img width="1902" height="988" alt="Screenshot 2026-09-26 103334" src="https://github.com/user-attachments/assets/566b28e9-23f5-4024-b61a-fd6fea993b0a" />
+<img width="1908" height="957" alt="Screenshot 2026-09-26 103435" src="https://github.com/user-attachments/assets/df6acbe9-a7b8-4a35-84e9-46814867e086" />
 <img width="1907" height="835" alt="Screenshot 2026-09-26 103452" src="https://github.com/user-attachments/assets/e3f978d1-9af2-4641-8be0-1ae526fd05ca" />
 
