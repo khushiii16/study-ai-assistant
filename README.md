@@ -226,28 +226,8 @@ Each generation request receives an increasing request ID. A slower older reques
 
 ## Time spent
 
-Fill this in honestly before submission.
+Approximately spent 6hrs
 
-Example:
+## Implementation 
+<img width="1907" height="835" alt="Screenshot 2026-09-26 103452" src="https://github.com/user-attachments/assets/e3f978d1-9af2-4641-8be0-1ae526fd05ca" />
 
-```text
-Approximately 7 hours.
-```
-
-## Submission
-
-Before submitting:
-
-1. Push the project to GitHub.
-2. Confirm `.env` is not committed.
-3. Confirm the README is complete.
-4. Record a short demo showing:
-   - entering a topic
-   - loading state
-   - generated flashcards
-   - quiz
-   - wrong answer
-   - retest
-   - error/retry behavior
-   - mobile layout
-5. Make small meaningful commits rather than one giant commit.
